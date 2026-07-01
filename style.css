@@ -9,5 +9,7 @@ main{
     background-color: rgb(250, 144, 6);
     color: rgb(182, 15, 248);
     text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
